@@ -1,9 +1,12 @@
-import './App.css'
+import './App.css';
+import AddUser from "./components/Users/AddUser";
 
-export default function App() {
+function App() {
   return (
-    <main>
-      React ⚛️ + Vite ⚡ + Replit 🌀
-    </main>
-  )
+    <div>
+      <AddUser></AddUser>
+    </div>
+  );
 }
+
+export default App;

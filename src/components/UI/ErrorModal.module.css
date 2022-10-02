@@ -18,17 +18,18 @@
 }
 
 .header {
-  background: #4f005f;
+  background: lightyellow;
   padding: 1rem;
 }
 
 .header h2 {
   margin: 0;
-  color: white;
+  color: #2a2a2a;
 }
 
 .content {
   padding: 1rem;
+  color: white;
 }
 
 .actions {
